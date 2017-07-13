@@ -1,0 +1,25 @@
+type project
+title
+    TopGrade
+owners
+    Seemant Rajvanshi
+authors 
+    Seemant Rajvanshi
+projectUrl
+    https://github.com/seemantr/TopGrade
+iconUrl
+    https://raw.githubusercontent.com/seemantr/TopGrade/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/seemantr/TopGrade/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    static analysis code
+summary
+    .net code quality tool
+description
+    Description not set
+
+
